@@ -1,0 +1,15 @@
+{
+    "name": "jquery.threedubmedia-oasis",
+    "version": "2.2.1",
+    "title": "jQuery Drag & Drop",
+    "description": "A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful.",
+    "homepage": "http://threedubmedia.com/code/event/",
+    "main": [
+        "event.drag/jquery.event.drag.js",
+        "event.drop/jquery.event.drop.js"
+    ],
+	"dependencies": {
+		"jquery": ">= 1.7.0 < 2.2.0"
+	},
+	"private": true
+}
